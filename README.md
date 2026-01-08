@@ -17,6 +17,3 @@ This project is a simple personal website built using HTML and CSS, originally c
 ## Technologies Used
 - HTML5
 - CSS3
-
-## How to View
-Open `index.html` in any web browser to view the website.
